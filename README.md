@@ -1,13 +1,14 @@
 # Hi there 👋
 
-I’m Barbora H., junior software tester & developer.
+I’m Barbora H. - Python community volunteer and organizer.
 
 ### 🛠 Technologies
 
-**Daily using in OrgisIT as the Python Trainee:**  
+**Daily using at Heureka Group as SW Engineer:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-[![Odoo](https://img.shields.io/badge/Odoo-%237A3E98?style=flat&logo=odoo&logoColor=white)](https://www.odoo.com/)
-
+![Kubernetes](https://img.shields.io/badge/Kubernetes-purple?logo=kubernetes&logoColor=white)
+![Gitlab](https://img.shields.io/badge/Gitlab-orange?logo=gitlab&logoColor=white)
+![Gitlab](https://img.shields.io/badge/ClaudeCode-orange?logo=claude&logoColor=white)
 
